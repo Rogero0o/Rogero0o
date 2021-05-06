@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 &nbsp;&nbsp;I’m currently working on Android;
+🔭 &nbsp;&nbsp;I’m currently working on Android
 
-🌱 &nbsp;&nbsp;I’m currently learning Media, WebRTC;
+🌱 &nbsp;&nbsp;I’m currently learning Media, WebRTC
 
 🎏 &nbsp;&nbsp;Personal website: www.rogerblog.cn
 
-📫 &nbsp;&nbsp;How to reach me: flyrogermail@gmail.com;  
+📫 &nbsp;&nbsp;How to reach me: flyrogermail@gmail.com
 
 
 ![https://github.com/Rogero0o](https://github-readme-stats.vercel.app/api?username=Rogero0o&show_icons=true&theme=dark)
